@@ -1,2 +1,2 @@
 # aws_restart
-Github repository for practices
+Python Learning with Practices
